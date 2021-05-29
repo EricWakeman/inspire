@@ -1,0 +1,27 @@
+    .image{
+        background-size:cover;
+        background-repeat: no-repeat;
+    }
+    .main-display{
+        height: 58vh;
+    }
+
+    .clock{
+        font-size: 8rem;
+        color: rgb(234, 239, 243);
+        text-shadow: 2px 2px rgb(25, 25, 26);
+    }
+
+    .greeting{
+        font-size: 2rem;
+        color:rgb(234, 239, 243);
+        text-shadow: 2px 2px rgb(25, 25, 26);
+    }
+
+    .hidden{
+        visibility: hidden;
+        transition: all 0.15s linear;
+    }
+
+    
+    
